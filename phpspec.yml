@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: SysProjectManagement
+        psr4_prefix: SysProjectManagement
+        src_path: app
